@@ -1,4 +1,4 @@
-#!/usr/bin/env python5
+#!/usr/bin/env python3
 
 import os
 from datetime import datetime
